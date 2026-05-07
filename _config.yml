@@ -1,6 +1,7 @@
-theme: jekyll-theme-minimal
 title: Kyle Kavanagh ePortfolio
 description: Links to github repositories.
+theme: minima
 
-header_pages:
-  - original-artifact.md
+minima:
+  header_pages:
+    - original-artifact.md
