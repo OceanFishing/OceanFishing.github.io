@@ -2,6 +2,7 @@ title: Kyle Kavanagh ePortfolio
 theme: minima
 
 header_pages:
+  - index.md
   - original-artifact.md
   - software-engineering.md
   - algorithms.md
