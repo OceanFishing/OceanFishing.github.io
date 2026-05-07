@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: Kyle Kavanagh ePortfolio
+description: Kyle Kavanagh ePortfolio
+
+header_pages:
+  - original-artifact.md
