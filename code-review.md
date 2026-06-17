@@ -13,9 +13,6 @@ Before implementing any enhancement, I recorded a code review of the original Tr
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
 </div>
-
-[Watch the code review on YouTube](https://youtu.be/Ij8Gz8OKqjo)
-
 ---
 
 ## Code Review Summary
