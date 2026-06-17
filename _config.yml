@@ -1,8 +1,13 @@
 title: Kyle Kavanagh ePortfolio
+author: Kyle Kavanagh
+description: >-
+  CS 499 Computer Science capstone ePortfolio. A professional self-assessment
+  and three enhancements to the Travlr Getaways application across software
+  engineering, algorithms and data structures, and databases.
 theme: minima
-
 header_pages:
   - original-artifact.md
   - software-engineering.md
   - algorithms.md
   - databases.md
+  - code-review.md
